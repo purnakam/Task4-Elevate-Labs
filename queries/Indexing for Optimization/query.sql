@@ -1,1 +1,0 @@
-CREATE INDEX idx_user_order ON orders(user_id, order_number);
